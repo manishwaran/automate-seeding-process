@@ -1,0 +1,14 @@
+{
+  "name": "seeding-automation",
+  "version": "0.0.0",
+  "description": "",
+  "main": "checkProductSites.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "manish",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "cheerio": "~0.20.0"
+  }
+}
